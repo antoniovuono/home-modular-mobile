@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "home-modular-mobile",
+    "slug": "home-modular-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
